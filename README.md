@@ -2,4 +2,6 @@
 
 A Typing Website With Set of Sentences
 
-https://typing12.vercel.app/
+# DEMO : https://typing12.vercel.app
+
+![Screenshot](typing.png)
